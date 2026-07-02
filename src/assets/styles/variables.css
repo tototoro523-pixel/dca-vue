@@ -1,0 +1,21 @@
+:root {
+  --color-background: #0a0a0a;
+  --color-surface: #1a1a1a;
+  --color-text-primary: #ffffff;
+  --color-text-secondary: #9ca3af;
+
+  --color-primary: #2563eb;
+  --color-safe: #10b981;
+  --color-warning: #f59e0b;
+  --color-danger: #ef4444;
+
+  --radius-small: 12px;
+  --radius-medium: 16px;
+
+  --space-1: 8px;
+  --space-2: 16px;
+  --space-3: 24px;
+  --space-4: 32px;
+
+  --mobile-width: 390px;
+}
